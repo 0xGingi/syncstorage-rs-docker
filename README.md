@@ -23,7 +23,7 @@ Working on Both Desktop and Mobile
 
 4. Bring up the database
 
-`docker-compose up -d mariadb`
+`docker compose up -d mariadb`
 
 
 5. Create the two databases using initdb.sh. You'll need to provide your MariaDB root password.
