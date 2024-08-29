@@ -11,6 +11,7 @@ Working on Both Desktop and Mobile
 1. Clone this repo 
 
 `git clone https://github.com/0xGingi/syncstorage-rs-docker.git`
+
 `cd syncstorage-rs-docker`
 
 2. Build the container
